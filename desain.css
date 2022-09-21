@@ -1,0 +1,51 @@
+body {
+    background-image:url(1661314765717.jpg);
+    background-attachment : fixed;
+    background-size: cover;
+}
+
+p {
+    color : white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40pt;
+}
+
+img {
+    align-content: center;
+}
+
+table{
+    margin-left: 300pt;
+    margin-right: 300pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 10pt;
+    text-align: center;
+    border: 2pt solid #303030;
+    border-collapse: collapse;
+}
+
+th{
+    size: large;
+    background-color: lightblue;
+    border: 2pt solid #303030;
+}
+
+tr{
+    background-color: azure;
+    height: 10%;
+    border: 2pt solid #303030;
+    font-size: xx-large;
+}
+
+td{
+    background-color: #def5ff;
+    color: black;
+    margin: 10px;
+    border: 2pt solid #303030;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}

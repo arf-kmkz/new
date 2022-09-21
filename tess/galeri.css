@@ -1,0 +1,63 @@
+body{
+    background-image: url(trek.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: antiquewhite; 
+    -webkit-text-stroke: 1pt black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    height: 100pt;
+    width: 178pt;
+    margin : auto;
+    border: solid 2pt black;
+    border-radius: 50pt;
+    opacity: 0.7;
+}
+
+img:hover{
+    opacity:1;
+}
+
+table{
+    margin: auto;
+    border-collapse: separate;
+    text-align: center;
+}
+
+th{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #142338;
+    color: bisque;
+    font-size: 15pt;
+    height: 1pt;
+    border-radius: 1000pt;
+    margin: auto;
+ }
+
+th:hover{
+    background-color: #4870a8;
+    color: #75afff;
+}
+
+tr{
+    text-align: center;
+    height: 20pt;
+}
+
+td{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15pt;
+    color: #7f8a99;
+    -webkit-text-stroke: 1px black;
+}
+a{
+    color: #142338;
+    background-color: #4870a8 ;
+}
+a:hover{
+    background-color: #4870a8;
+    color: black;
+}
